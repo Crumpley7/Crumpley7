@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Crumpley7
-- 👀 I’m interested in money
+- 👋 Hi, I’m Aryamaan Dash
+- 👀 I’m interested in the art of web and app development.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me ...
